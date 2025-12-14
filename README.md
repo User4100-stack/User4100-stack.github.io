@@ -4,23 +4,23 @@ You can connect with us through the platforms below:
 
 ---
 
-### 🔗 Social & Contact Links
+###  Social & Contact Links
 
-- 📸 **Instagram**  
-  👉 [Follow us on Instagram](https://www.instagram.com/rozaricreation/?hl=en)
+-  **Instagram**  
+   [Follow us on Instagram](https://www.instagram.com/rozaricreation/?hl=en)
 
-- 📘 **Facebook**  
-  👉 [Connect on Facebook](https://www.facebook.com/rozaricreations)
+-  **Facebook**  
+   [Connect on Facebook](https://www.facebook.com/rozaricreations)
 
-- 🌍 **Website**  
-  👉 [Visit our Website](https://www.rozaricreations.com)
+-  **Website**  
+   [Visit our Website](https://www.rozaricreations.com)
 
-- 💬 **WhatsApp**  
-  👉 [Chat on WhatsApp](https://wa.me/923007692741)
+-  **WhatsApp**  
+   [Chat on WhatsApp](https://wa.me/923007692741)
 
 ---
 
-### ✨ Quick Access Buttons
+###  Quick Access Buttons
 
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rozaricreation/?hl=en)
 [![Facebook](https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/rozaricreations)
@@ -29,4 +29,4 @@ You can connect with us through the platforms below:
 
 ---
 
-⭐ Feel free to reach out anytime!
+Feel free to reach out anytime!
